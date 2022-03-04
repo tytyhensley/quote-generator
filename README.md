@@ -5,7 +5,7 @@ This is a Reactjs API data fetching project built from  scratch. The quote gener
 
 This project was done to get comfortable with API requests in react and have a better understanding of basic React workflow.
 
-The app was deployed on a public domain: https://peaceful-lewin-ad129f.netlify.app/
+The app was deployed on a public domain: https://advice-quote-generator.netlify.app/
 
 ### `npm start`
 
